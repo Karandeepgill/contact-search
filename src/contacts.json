@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "dob": "1990-01-01",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "dob": "1985-05-15",
+      "email": "jane.smith@example.com",
+      "phone": "987-654-3210",
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    {
+      "id": 3,
+      "firstName": "Gina",
+      "lastName": "Sekhon",
+      "dob": "1993-11-09",
+      "email": "gina.sekhon@example.com",
+      "phone": "987-654-3210",
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    {
+      "id": 4,
+      "firstName": "Abby",
+      "lastName": "Brown",
+      "dob": "1987-04-24",
+      "email": "abby.brown@example.com",
+      "phone": "987-654-3210",
+      "city": "Los Angeles",
+      "state": "CA"
+    }
+  ]
